@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Flickr image search demo</string>
+    <string name="denied_location_permission_message">This app needs your location in order to function properly.</string>
+    <string name="notification_message">App collects nearby images as you walk!</string>
+    <string name="start_button_label">Start</string>
+    <string name="stop_button_label">Stop</string>
+</resources>
